@@ -89,9 +89,4 @@ I'm a B.Tech student in Computer Science and Engineering (Artificial Intelligenc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2&section=header" width="100%" alt="">
 
-<p align="center">
-  <a href="https://github.com/PradeepSD476?tab=followers"><img src="https://img.shields.io/github/followers/PradeepSD476?label=Follow&style=flat-square&logo=github&labelColor=1a1b27&color=7aa2f7" alt="Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=PradeepSD476&style=flat-square&labelColor=1a1b27&color=7aa2f7" alt="Profile views">
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=80&section=footer" width="100%" alt="">
