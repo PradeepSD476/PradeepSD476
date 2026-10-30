@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=140&section=header&text=Pradeep%20Sagitra&fontColor=c9d1d9&fontSize=42&fontAlignY=40&desc=Open%20source%20contributor%20%C2%B7%20Backend%20and%20platform%20engineering&descColor=8b949e&descSize=15&descAlignY=65" alt="Pradeep Sagitra" width="100%">
-</div>
-
 <p align="center">
   <a href="https://github.com/PradeepSD476"><img src="https://img.shields.io/badge/GitHub-PradeepSD476-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/pradeep-sagitra-213890323/"><img src="https://img.shields.io/badge/LinkedIn-Pradeep_Sagitra-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
